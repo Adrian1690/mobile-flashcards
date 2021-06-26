@@ -6,6 +6,11 @@ This project was built with expo snack. The application was tested in an iPhone 
 
 I have used KeyboardAvoidingView o avoid overlapping with the keyboard and input. Also, I have used TouchableWithoutFeedback to dismiss the keyboard if you touch it in another area. So to test input text on the web You must click holding it inside the input area.
 
+## Instalation
+
+Use `yarn install` and `yarn start` to start the project.
+To run in ios use `yarn ios`.
+
 When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
 
 All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
